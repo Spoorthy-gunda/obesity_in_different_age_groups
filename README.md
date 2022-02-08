@@ -6,3 +6,4 @@ https://chronicdata.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Ph
 Conducted exploratory data analsis and answered the following questions
 1. Which age groups have higher percentage of adults who are obese/overweight?
 2. How is the physical activity and diet of different aged groups and does it correlate with the weight status.
+3. Differences of weight status, physical activity and diet between females and males.
